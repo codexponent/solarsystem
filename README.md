@@ -4,7 +4,7 @@ Solar System is a demo of a solar system made from Unity3d. It was a representat
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Download and Installation
 
